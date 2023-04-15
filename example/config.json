@@ -1,0 +1,10 @@
+{
+    "replacements": [
+        {
+            "color": {
+                "old": "#ed1c24",
+                "new": "#1cede5"
+            }
+        }
+    ]
+}
